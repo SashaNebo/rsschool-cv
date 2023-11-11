@@ -21,7 +21,7 @@ So I decided to start by myself. I immediately opened YouTube and started watchi
 ---
 
 ### Skills and Proficiency:
-* HTML5, CSS3, SASS
+* HTML5, CSS3, SCSS
 * JavaScript ES6
 * Yarn, Webpack Package manager
 * React JS basic
@@ -31,7 +31,7 @@ So I decided to start by myself. I immediately opened YouTube and started watchi
 
 ### Code example
 
-__*6 kyu. _Find the odd int [Cata link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)*__
+__*6 kyu. Find the odd int [Cata link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)*__
 
 ```
 function findOdd(array) {
