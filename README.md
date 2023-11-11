@@ -1,1 +1,1 @@
-https://github.com/SashaNebo/rsschool-cv
+https://SashaNebo.github.io/rsschool-cv/
