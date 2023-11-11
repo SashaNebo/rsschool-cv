@@ -18,5 +18,29 @@ The beginning of my first code was in the winter of 2021. Then my friend from th
 
 So I decided to start by myself. I immediately opened YouTube and started watching programming languages that are worth learning. So I chose html and css, because you can make money quickly. Later I realized that I would like more than just layout layout, and so I moved on to frontend development.
 
+---
 
+### Skills and Proficiency:
+* HTML5, CSS3, SASS
+* JavaScript ES6
+* Yarn, Webpack Package manager
+* React JS basic
+* Adobe Photoshop, Figma
 
+---
+
+### Code example
+
+__*6 kyu. _Find the odd int [Cata link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)*__
+
+```
+function findOdd(array) {
+  let odd = null
+  let obj = {}
+
+  array.forEach(n => (obj[n] ? obj[n]++ : (obj[n] = 1)))
+  Object.entries(obj).forEach(a => (a[1] % 2 !== 0 ? (odd = +a[0]) : 0))
+
+  return odd
+}
+```
